@@ -1,7 +1,8 @@
-package be.realestitch;
+package be.touristr;
 
 import android.app.Activity;
 import android.os.Bundle;
+import be.realestitch.R;
 
 public class MainActivity extends Activity {
     /**
