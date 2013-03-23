@@ -2,7 +2,7 @@ package be.touristr;
 
 import android.app.Activity;
 import android.os.Bundle;
-import be.realestitch.R;
+import be.touristr.R;
 
 public class MainActivity extends Activity {
     /**
